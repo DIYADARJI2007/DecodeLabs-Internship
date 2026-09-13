@@ -1,0 +1,11 @@
+Order_ID,Customer_Name,Product,Category,Quantity,Unit_Price,Region,Order_Date
+1001,Diya,Laptop,Electronics,2,55000,West,2026-01-05
+1002,Riya,Mouse,Accessories,5,800,North,2026-01-10
+1003,Aarav,Keyboard,Accessories,3,1500,South,2026-01-15
+1004,Meera,Laptop,Electronics,1,60000,West,2026-02-02
+1005,Karan,Monitor,Electronics,2,12000,East,2026-02-08
+1006,Neha,Mouse,Accessories,8,750,West,2026-02-15
+1007,Rahul,Keyboard,Accessories,4,1800,North,2026-03-01
+1008,Anaya,Laptop,Electronics,2,58000,South,2026-03-12
+1009,Vivaan,Monitor,Electronics,3,11000,East,2026-03-20
+1010,Ishita,Mouse,Accessories,6,850,West,2026-03-25
